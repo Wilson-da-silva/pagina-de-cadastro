@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2? família=Poppins:ital@1&display=swap');
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 80px;
+    color: rgb(255, 251, 255);
+}
+body {
+    background-color: rgb(47, 20, 47);
+    align-items: center;
+}
+
+#todos {
+    text-align: center;
+    color: white;
+    margin-bottom: 3rem;
+}
+
+#conta {
+    color: white;
+    text-align: center;
+}
+
+#link {
+    text-align: center;
+    color: white;
+}
+
+#linkk {
+    text-align: center;
+    color: white;
+}
+
+#ou {
+    text-align: center;
+    color: white;
+}
